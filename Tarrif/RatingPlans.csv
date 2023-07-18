@@ -1,0 +1,5 @@
+#Id,DestinationRatesId,TimingTag,Weight
+RP_HOME,DR_1001_0.5f,*any,10
+RP_HOME,DR_1002_0.5f,*any,10
+RP_HOME,DR_1003_0.5f,*any,10
+RP_HOME,DR_1004_0.5f,*any,10
